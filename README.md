@@ -28,10 +28,10 @@ A API valida o corpo das requisições das rotas POST, PATCH e PUT para não pro
 
 ## Tecnologias utilizadas
 
-<b>Linguagem</b>: Javascript
+<b>Linguagem</b>: Javascript <br>
 <b>Bibliotecas</b>: Express e fs.
 
 ## Contato
 
-Linkedin : https://www.linkedin.com/in/rodrigo-albuquerque-dev/
+Linkedin : https://www.linkedin.com/in/rodrigo-albuquerque-dev/ <br>
 E-mail: rodrigomedeiros4996@gmail.com
